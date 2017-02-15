@@ -777,9 +777,9 @@ glogg@^1.0.0:
   dependencies:
     sparkles "^1.0.0"
 
-google-fonts-complete@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/google-fonts-complete/-/google-fonts-complete-1.1.0.tgz#afd2e88e2058f815c2a8dc38532e46a87f06d72f"
+"google-fonts-complete@git://github.com/eshinn/google-fonts-complete#master":
+  version "1.1.1"
+  resolved "git://github.com/eshinn/google-fonts-complete#0beb780eb440bf4e3fe015f399e2e655e7976475"
   dependencies:
     postcss "^4.1.16"
 

@@ -1,3 +1,7 @@
+## 1.6.0 (2017-02-15)
+
+Changed: Updated `Google Fonts Complete`
+
 ## 1.6.0 (2016-12-07)
 
 Changed: added option with custom path in the `hosted` method.
